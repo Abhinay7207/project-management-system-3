@@ -1,0 +1,22 @@
+12000	Samuel	F.	48	Jr. Employee	60000	1007	0
+12001	Ashley	B.	32	Jr. Employee	60000	-	1
+12002	Richard	Y.	28	Employee	50000	1006	2
+12003	Michael	B.	53	Sr. Partner	100000	-	3
+12004	Nancy	L.	28	Sr. Employee	75000	-	4
+12005	Brooke	P.	27	Jr. Employee	60000	-	5
+12006	Josh	U.	32	Employee	45000	1005	6
+12007	Daniel	O.	29	Employee	45000	-	7
+12008	Shannon	W.	30	Jr. Employee	60000	-	8
+12009	Mike	R.	30	Employee	35000	-	9
+12010	Walter	W.	52	Employee	35000	-	10
+12011	Harvey	S.	45	Sr. Employee	65000	-	11
+12012	Gale	B.	35	Employee	35000	-	12
+12013	Donald	T.	79	Employee	35000	-	574
+12014	Donna	P.	23	Sr. Employee	70000	-	18
+12015	Jesse	P.	34	Employee	45000	-	904
+12016	Rachel	Z.	54	Employee	45000	1111	907
+12017	Sheldon	C.	54	Employee	45000	1112	956
+12018	Michael	E.	61	Employee	45000	-	954
+12019	George	C.	45	Jr. Employee	60000	-	683
+12020	Toby	B.	20	Employee	45000	10080	546
+12021	Jacob	B.	20	Management	80000	-	700
