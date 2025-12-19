@@ -16,13 +16,13 @@ This is a Java Swing application built with NetBeans.
 
 ## Project Guidelines
 Please refer to the following documents for project requirements and coding standards:
-- [Core Feature Implementation](Core%20Feature%20Implementation.md)
-- [Error Handling & Robustness](Error%20Handling%20&%20Robustness.md)
-- [Integration of Components](Integration%20of%20Components.md)
-- [Event Handling & Processing](Event%20Handling%20&%20Processing.md)
-- [Data Validation](Data%20Validation.md)
-- [Code Quality & Innovation](Code%20Quality%20&%20Innovation.md)
-- [Project Documentation](Project%20Documentation.md)
+- [01 - Core Feature Implementation](01%20-%20Core%20Feature%20Implementation.md)
+- [02 - Error Handling & Robustness](02%20-%20Error%20Handling%20&%20Robustness.md)
+- [03 - Integration of Components](03%20-%20Integration%20of%20Components.md)
+- [04 - Event Handling & Processing](04%20-%20Event%20Handling%20&%20Processing.md)
+- [05 - Data Validation](05%20-%20Data%20Validation.md)
+- [06 - Code Quality & Innovation](06%20-%20Code%20Quality%20&%20Innovation.md)
+- [07 - Project Documentation](07%20-%20Project%20Documentation.md)
 When prompted with the "Enter Your Info" screen, you can use various Administrator or Employee IDs to grant access to the system.
 
 These IDs are provided in the first column of the information listed in "FAdmin.txt" or "FEmployee.txt".
