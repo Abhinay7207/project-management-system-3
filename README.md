@@ -15,7 +15,14 @@ This is a Java Swing application built with NetBeans.
 - **Salaries** and **Budgets** must be positive numbers.
 
 ## Project Guidelines
-Please refer to [Guidelines.md](Guidelines.md) for detailed project requirements and coding standards.
+Please refer to the following documents for project requirements and coding standards:
+- [Core Feature Implementation](Core%20Feature%20Implementation.md)
+- [Error Handling & Robustness](Error%20Handling%20&%20Robustness.md)
+- [Integration of Components](Integration%20of%20Components.md)
+- [Event Handling & Processing](Event%20Handling%20&%20Processing.md)
+- [Data Validation](Data%20Validation.md)
+- [Code Quality & Innovation](Code%20Quality%20&%20Innovation.md)
+- [Project Documentation](Project%20Documentation.md)
 When prompted with the "Enter Your Info" screen, you can use various Administrator or Employee IDs to grant access to the system.
 
 These IDs are provided in the first column of the information listed in "FAdmin.txt" or "FEmployee.txt".
