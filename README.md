@@ -13,8 +13,6 @@ This is a Java Swing application built with NetBeans.
 - **IDs** must be numeric.
 - **Dates** must be in DD/MM/YYYY format.
 - **Salaries** and **Budgets** must be positive numbers.
-
-
 When prompted with the "Enter Your Info" screen, you can use various Administrator or Employee IDs to grant access to the system.
 
 These IDs are provided in the first column of the information listed in "FAdmin.txt" or "FEmployee.txt".
